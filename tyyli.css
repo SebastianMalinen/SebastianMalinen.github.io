@@ -1,0 +1,109 @@
+body{
+    background-color:beige;
+    color:black;
+    font-family:'Courier New', Courier, monospace;
+}
+h1{
+    color:#f062a1;
+    font-size: 70px;
+    padding: 0px;
+}
+
+#Header1{
+    border-style: solid;
+    font-weight: bold;
+    padding: 10px;
+}
+
+#Box{
+  border-style: solid;
+  font-weight: bold;
+}
+
+a:link {
+    color:#f062a1;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: #f062a1;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:hover {
+    color: #f062a1;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+a:active {
+    color: #f062a1;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#Plus li {
+  list-style-image: url('https://naitsa.s-ul.eu/cEbNg83V')
+}
+
+#Minus li {
+  list-style-image: url('https://naitsa.s-ul.eu/l5LZOuJ2')
+}
+
+#Staff li {
+  list-style:square
+}
+
+table {
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+  text-align: center;
+  border: 2px solid black;
+}
+
+th {
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: large;
+  padding: 30px;
+  text-align: center;
+  border: 2px solid black;
+  size: 50px;
+}
+
+tr {
+  height:70px;
+}
+
+#gold {
+  color: gold;
+}
+
+#silver {
+  color: silver;
+}
+
+#fail {
+  color: red;
+}
+
+#bronze {
+  color: #cd7f32;
+}
+
+#blue {
+  color: blue;
+}
+
+#green {
+  color: green;
+}
